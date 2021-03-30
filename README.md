@@ -1,0 +1,2 @@
+# genshi
+Powered by Mihuyo 
